@@ -1,17 +1,18 @@
-# (Application Name)
+# Weather App
 
-#### (Brief Description of Application)
+This app shows weather details of any location in the world by using the weather API.
 
-#### By (Your Name Here)
+#### By Durojaiye Akindiji
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* HTML 5
+* CSS 3
+* JAVASCRIPT
+* GIT
+* WEBPACK
 
-## Description
+
 
 ## Setup/Installation Requirements
 
@@ -27,5 +28,7 @@
 * _should go here_
 
 ## License
+MIT
 
 ## Contact Information
+akindijiduro@gmail.com
