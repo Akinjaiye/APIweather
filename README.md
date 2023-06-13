@@ -24,8 +24,7 @@ This app shows weather details of any location in the world by using the weather
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* No known bugs
 
 ## License
 MIT
