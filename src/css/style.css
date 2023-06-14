@@ -8,3 +8,11 @@ body{
 .container{
     padding-top: 250px;
 }
+button{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 20px;
+    font-size: 20px;
+}
