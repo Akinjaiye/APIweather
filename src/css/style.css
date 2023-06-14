@@ -16,3 +16,12 @@ button{
     padding: 20px;
     font-size: 20px;
 }
+input{
+    border: none;
+    width: 450px;
+    margin-right: 20px;
+    border-bottom: 5px solid red;
+    background-color: lightblue;
+    outline: none;
+    font-size: 20px;
+}
