@@ -31,3 +31,10 @@ input{
 .weath{
     padding-top: 70px;
 }
+.answer{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    border-radius: 20px;
+    margin: 40px;
+}
