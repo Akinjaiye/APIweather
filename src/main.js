@@ -6,6 +6,7 @@ import WeatherService from './js/weather-service.js';
 
 
 
+
 function clearFields() {
     $('#location').val("");
     $('.showErrors').text("");

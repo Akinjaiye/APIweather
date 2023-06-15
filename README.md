@@ -16,11 +16,9 @@ This app shows weather details of any location in the world by using the weather
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Clone this on my repository to your desktop
+* Run npm install
+
 
 ## Known Bugs
 
